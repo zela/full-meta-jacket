@@ -1,5 +1,5 @@
 # [Full Meta Jacket](https://github.com/indy/full-meta-jacket): the static website generator
-
+generator
 ## Installation
 
 ```npm install full-meta-jacket -g```
